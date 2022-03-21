@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 
 # WebCrypto compatible cryptography CLI
+# Version: 3.0.0
 
 set -eo pipefail
 
